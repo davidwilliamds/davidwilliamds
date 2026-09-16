@@ -13,21 +13,11 @@ Currently, I'm studying **Software Engineering at [IESB](https://www.iesb.br/)**
 ## 👨‍💻 About Me
 
 - 🎓 Software Engineering student at **[IESB](https://www.iesb.br/)**
-- 💻 Focused on **backend development**
-- 🏗️ Interested in **scalable and reliable systems**
-- 🧠 Always learning and experimenting with new technologies
-- 🔍 Curious about how things work under the hood
-- 🚀 I like turning problems into software solutions
-
-My main interests include:
-
-- Backend Engineering
-- Distributed Systems
-- Software Architecture
-- Scalability & Performance
-- Databases
-- DevOps & Infrastructure
-- Open Source
+- Focused on **backend development**
+- Interested in **scalable and reliable systems**
+- Always learning and experimenting with new technologies
+- Curious about how things work under the hood
+- I like turning problems into software solutions
 
 ---
 
@@ -38,21 +28,6 @@ My main interests include:
 ![databasesCaching](https://skillicons.dev/icons?i=postgresql,mongodb,redis)
 ![devOps](https://skillicons.dev/icons?i=docker,linux,debian)
 ![IntelliJ IDEA lover](https://skillicons.dev/icons?i=idea,vscode)
-
----
-
-## 🌱 Currently Learning
-
-I'm currently exploring:
-
-- Advanced backend architecture
-- Distributed systems
-- System design
-- Performance optimization
-- Cloud & infrastructure
-- New programming languages and frameworks
-
-I'm always looking for something new to learn, build, or break.
 
 ---
 
