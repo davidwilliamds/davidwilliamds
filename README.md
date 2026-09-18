@@ -17,8 +17,6 @@ Currently, I'm studying **Software Engineering at [IESB](https://www.iesb.br/)**
 - Interested in **scalable and reliable systems**
 - Always learning and experimenting with new technologies
 - Curious about how things work under the hood
-- I like turning problems into software solutions
-
 ---
 
 ## 🛠️ Tech Stack
